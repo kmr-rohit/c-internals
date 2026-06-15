@@ -1,0 +1,22 @@
+# Test files (sidecar files like smart_pointers.cpp:tests)
+*:tests
+*.tests
+
+# Compiled binaries / executables
+memory_management
+smart_pointers
+*.out
+*.exe
+*.app
+
+# Object files & build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dSYM/
+
+# macOS
+.DS_Store
